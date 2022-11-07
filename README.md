@@ -1,7 +1,7 @@
 ![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 <h1 align="center">Hi 👋, I'm Abdelkader</h1>
-<h3 align="center">A passionate full stack Developer & junior Aws-DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<h3 align="center">A passionate frontend developer & junior Aws-DevOps Engineer</h3>
+<img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destinyoo&label=Profile%20views&color=0e75b6&style=flat" alt="destinyoo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdelkaderism82" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkaderism82?logo=twitter&style=for-the-badge" alt="abdelkaderism82" /></a> </p>
