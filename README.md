@@ -1,4 +1,4 @@
-![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
+
 <h1 align="center">Hi 👋, I'm Abdelkader</h1>
 <h3 align="center">A passionate web designer & junior DevOps engineer</h3>
 <img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
