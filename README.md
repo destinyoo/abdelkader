@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdelkader</h1>
 <h3 align="center">A passionate web designer & junior DevOps engineer</h3>
-<img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=destinyoo&label=Profile%20views&color=0e75b6&style=flat" alt="destinyoo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abdelkaderism82" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkaderism82?logo=twitter&style=for-the-badge" alt="abdelkaderism82" /></a> </p>
 
